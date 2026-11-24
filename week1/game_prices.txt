@@ -1,0 +1,7 @@
+# 遊戲價格清單（這行是註解）
+  Zelda , ¥7,980 , switch
+Mario Kart,¥6,578,Switch
+
+Elden Ring , ¥9,240 , ps5
+# 下面這款是特價
+Pokemon,¥5,980,SWITCH
